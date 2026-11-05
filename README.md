@@ -115,3 +115,13 @@ workshops/data-lab/
 └── reports/
     └── report.json                                     # 密封评测输出数据 (驱动所有视觉坐标)
 ```
+
+---
+
+## 🔗 关联仓库矩阵（Microsoft Fabric & Data Analytics 家族）
+
+| 仓库 | 定位 |
+|---|---|
+| [`turbo998/data-lab`](https://github.com/turbo998/data-lab) | **旗舰主仓**：Microsoft Fabric vs Databricks / Snowflake / GCP / AWS 五云架构评测、TCO 精算与 Ontology 仿真实验室 |
+| [`turbo998/microsoft-fabric-learning-plan`](https://github.com/turbo998/microsoft-fabric-learning-plan) | Microsoft Fabric 体系化学习路线图与每日追踪笔记 |
+| [`turbo998/fabric-mirroring-directlake-agent-demo`](https://github.com/turbo998/fabric-mirroring-directlake-agent-demo) | Mirroring + DirectLake + Data Agent 端到端参考实现 |

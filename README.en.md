@@ -56,3 +56,13 @@ python -m unittest discover -s workshops/data-lab/tests -v
 # 2. Regenerate the sealed evaluation report
 python workshops/data-lab/src/data_lab/benchmark_suite.py --output workshops/data-lab/reports/report.json
 ```
+
+---
+
+## 🔗 Related Ecosystem Repositories (Microsoft Fabric & Data Analytics Family)
+
+| Repository | Role |
+|---|---|
+| [`turbo998/data-lab`](https://github.com/turbo998/data-lab) | **Flagship Hub**: Microsoft Fabric vs Databricks / Snowflake / GCP / AWS 5-cloud benchmark, TCO calculator & Ontology simulator |
+| [`turbo998/microsoft-fabric-learning-plan`](https://github.com/turbo998/microsoft-fabric-learning-plan) | Structured Microsoft Fabric learning roadmap and daily tracking notes |
+| [`turbo998/fabric-mirroring-directlake-agent-demo`](https://github.com/turbo998/fabric-mirroring-directlake-agent-demo) | End-to-end Mirroring + DirectLake + Data Agent reference implementation |
